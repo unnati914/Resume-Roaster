@@ -61,4 +61,4 @@ if uploaded_file:
         st.write(response)
 
         st.markdown("---")
-        st.caption("Made with ❤️ by Unnati's AI")
+        st.caption("Made with ❤️ by Unnati")
